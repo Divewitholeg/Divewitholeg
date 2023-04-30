@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Divewitholeg - a web designer, developer and digital artisan.
-- 👀 I’m interested in working on Vite/ Vue 3 projects to create awesome front-ends involving Router, Pinia, i18n, CAPI.
-- 🌱 I’m currently learning Typescript and Laravel.
-- 💞️ I’m looking to collaborate on projects using the newest features of Vue 3.
+- 👀 Interested in working on Vite/ Vue 3, Nuxt 3, React projects to create awesome front-ends involving Router, Pinia, i18n, CAPI.
+- 🌱 Learning Typescript and Laravel.
+- 💞️ I’m looking to collaborate on various frontend projects.
+- 🌐 Can assist with translations to and from 🇺🇸 English, 🇩🇪 German, 🇪🇪 Estonian, 🇷🇺 Russian languages.
 - 📫 Drop me an email: rybniko@gmail.com or text me on WhatsApp: +37256045484
 
 <!---
