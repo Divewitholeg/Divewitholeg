@@ -1,7 +1,7 @@
 
 
 - 👋 Hi, I’m Oleg Rõbnikov - a web designer, developer and digital artisan.
-- 👀 Interested in working on Vite/ Vue 3, Nuxt 3, React projects to create awesome front-ends and Laravel, PHP for back-ends.
+- 👀 Interested in working on React and Vue projects to create awesome front-ends and Laravel, PHP for back-ends.
 - 🌱 Learning Typescript.
 - 💞️ I’m looking to collaborate on various frontend or full-stack projects.
 - 🌐 Can assist with translations to and from 🇺🇸 English, 🇩🇪 German, 🇪🇪 Estonian, 🇷🇺 Russian languages.
